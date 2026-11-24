@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/catevildev/MeowSticker/releases"><img src="https://img.shields.io/github/v/release/catevildev/MeowSticker?label=versão&color=16a34a" alt="versão" /></a>
+  <a href="https://github.com/catevildev/MeowSticker/releases"><img src="https://img.shields.io/github/v/release/catevildev/MeowSticker?label=versao&color=16a34a" alt="versao" /></a>
   <a href="https://github.com/catevildev/MeowSticker/issues"><img src="https://img.shields.io/github/issues/catevildev/MeowSticker?color=16a34a" alt="issues" /></a>
   <img src="https://img.shields.io/badge/licença-AGPL--3.0-blue.svg" alt="AGPL-3.0" />
 </p>
