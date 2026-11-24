@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="brand/icon.svg" alt="estúdio de figurinhas" width="112" height="112" />
+  <img src="brand/icon.png" alt="estúdio de figurinhas" width="112" height="112" />
 </p>
 
 <h1 align="center">Estúdio de figurinhas</h1>
