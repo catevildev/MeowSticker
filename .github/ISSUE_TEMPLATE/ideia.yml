@@ -1,0 +1,16 @@
+name: Ideia
+description: Sugestão de melhoria ou recurso novo
+title: "[ideia] "
+labels: ["ideia"]
+body:
+  - type: textarea
+    id: idea
+    attributes:
+      label: Qual a ideia?
+      placeholder: O que você gostaria que o estúdio fizesse?
+    validations:
+      required: true
+  - type: textarea
+    id: why
+    attributes:
+      label: Por que isso ajuda?

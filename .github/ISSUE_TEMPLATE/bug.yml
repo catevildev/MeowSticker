@@ -1,0 +1,40 @@
+name: Bug
+description: Algo quebrou ou não funcionou como esperado
+title: "[bug] "
+labels: ["bug"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Obrigado por reportar. **Não** cole números de telefone, códigos de pareamento nem arquivos de sessão.
+  - type: textarea
+    id: what
+    attributes:
+      label: O que aconteceu?
+      placeholder: Conte em poucas frases o que você viu na tela.
+    validations:
+      required: true
+  - type: textarea
+    id: expected
+    attributes:
+      label: O que você esperava?
+    validations:
+      required: true
+  - type: dropdown
+    id: area
+    attributes:
+      label: Onde?
+      options:
+        - Criar figurinha
+        - Figurinha com som
+        - Pareamento / conectar
+        - Enviar para o WhatsApp
+        - Site / atualizações
+        - Outro
+    validations:
+      required: true
+  - type: input
+    id: version
+    attributes:
+      label: Versão (se souber)
+      placeholder: "ex.: v1.0.0"

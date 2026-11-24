@@ -1,0 +1,5 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Releases e versões
+    url: https://github.com/catevildev/MeowSticker/releases
+    about: Veja o que mudou em cada tag.
