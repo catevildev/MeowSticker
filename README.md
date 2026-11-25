@@ -25,6 +25,14 @@ Um estúdio simples para criar figurinhas (estáticas ou animadas) e, se quiser,
 - Envio com som usa pareamento do **seu** número  
 - Projeto independente, sem vínculo com WhatsApp ou Meta  
 
+## Novidades da 1.2.0
+
+**Acervo da comunidade:** veja e baixe figurinhas que outras pessoas criaram, separadas por dia. Quem não quiser aparecer no acervo desmarca "mostrar no acervo" ao criar.
+
+- **Link por figurinha:** cada figurinha tem o próprio endereço para compartilhar.
+- **Enviar pro meu WhatsApp:** também funciona com figurinhas do acervo. Se o número ainda não estiver conectado, a própria página explica como conectar.
+- **Denúncias:** qualquer figurinha pode ser denunciada. Ela sai do ar até a moderação revisar.
+
 ## Onde falar com a gente
 
 | | |
